@@ -17,7 +17,7 @@ K=100;
 %% lambda max
 rng(0)
 D0 = initdict(8,K,0);
-S = single(rgb2gray(imread(['.\datasets\' dataset '\' num2str(9999+1) '.jpg'])))/255; %%% first image in the dataset
+S = single(rgb2gray(imread(['.\datasets\' dataset '_test\' num2str(9999+1) '.jpg'])))/255; %%% first image in the dataset
 [h, w] = size(S);
 m = min(h,w);
 S = S( floor((h-m)/2)+1 :end - ceil((h-m)/2) , floor((w-m)/2)+1 :end - ceil((w-m)/2));
