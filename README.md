@@ -1,5 +1,6 @@
 # Approximate-Online-Convolutional-Dictionary-Learning
 Codes for reproding the experimental results in manuscript "An Efficient Approximate Method for Online Convolutional Dictionary Learning"
+https://arxiv.org/abs/2301.10583
 
 
 (I) For the experiments on City and Fruit datasets use the codes below:
