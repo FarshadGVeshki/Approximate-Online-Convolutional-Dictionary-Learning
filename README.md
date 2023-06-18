@@ -1,6 +1,10 @@
 # Approximate-Online-Convolutional-Dictionary-Learning
-Codes for reproding the experimental results in manuscript "An Efficient Approximate Method for Online Convolutional Dictionary Learning"
+MATLAb implementations of algorithms proposed in "An Efficient Approximate Method for Online Convolutional Dictionary Learning"
 https://arxiv.org/abs/2301.10583
+
+and in conference paper "Efficient Online Convolutional Dictionary Learning Using Approximate Sparse Components", ICASSP, 2023
+
+
 
 
 (I) For the experiments on City and Fruit datasets use the codes below:
